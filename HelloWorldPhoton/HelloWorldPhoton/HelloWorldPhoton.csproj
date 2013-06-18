@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Photon3DotNet">
-      <HintPath>D:\Program Files (x86)\unity\Photon-DotNet_v3-2-1-0_SDK\libs\Debug\Photon3DotNet.dll</HintPath>
+      <HintPath>.\Photon3DotNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
